@@ -1,4 +1,4 @@
 # JiraTest
 testing development features of JIRA
 - dodajem novi red
-- još jedan
+- još jedan redak za commit
